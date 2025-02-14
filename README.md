@@ -613,6 +613,6 @@ ORDER BY 2 DESC;
      Understanding the average price per unit helps in pricing strategy and competitive analysis.
 
 --------
-*Aurhor : Awal Alier*
+*Analyst : Awal Alier*
 
 *Reading between the data*
